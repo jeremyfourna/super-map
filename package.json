@@ -1,0 +1,25 @@
+{
+  "name": "super-map",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyfourna/super-map.git"
+  },
+  "author": "Jeremy Fourna <jeremyfourna@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyfourna/super-map/issues"
+  },
+  "homepage": "https://github.com/jeremyfourna/super-map#readme",
+  "dependencies": {
+    "leaflet": "^1.3.1",
+    "parcel-bundler": "^1.7.0",
+    "ramda": "^0.25.0"
+  }
+}
